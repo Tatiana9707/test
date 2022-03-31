@@ -18,8 +18,8 @@ menu:
       url: /about/
     - name: GitHub
       url: https://github.com/rstudio/blogdown
-    - name: Twitter
-      url: https://twitter.com/rstudio
+    - name: Linkedin
+      url: https://www.linkedin.com/in/%E5%A4%8F%E4%B9%99-%E7%8E%8B/
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
